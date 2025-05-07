@@ -11,6 +11,12 @@ The dashboard provides key business insights into:
 - Customer segmentation and behavior
 
 It helps business leaders answer strategic questions related to operations, marketing, and growth.
+## Dashboard Overview
+
+
+![retail report](https://github.com/user-attachments/assets/c60d69bb-3c56-4df6-ad52-d054e7bb5b8f)
+
+
 
 ---
 
