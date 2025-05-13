@@ -1,4 +1,4 @@
-# 🛍 Retail Sales Dashboard – Tata Forage Virtual Experience
+#  Retail Sales Dashboard – Tata Forage Virtual Experience
 
 This project was completed as part of the **Tata Data Visualisation Virtual Internship** offered by [Forage](https://www.theforage.com/). The aim was to analyze a retail dataset and build a comprehensive **Power BI dashboard** to support business decision-making from both **CEO** and **CMO** perspectives.
 
